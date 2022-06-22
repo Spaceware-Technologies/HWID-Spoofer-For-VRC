@@ -1,8 +1,8 @@
 # Spike Unban Tool 
 
- 	 This tool was monotone updated to work with VRC
+ 	 This tool was monotone drive based HWID spoofer for BE updated to work with VRC
   	 If this doesn't work you may need to reinstall windows
- 	 Contact me on discord if you have questions.  
+ 	  Contact me on discord if you have questions.  
 
 
 
