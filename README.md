@@ -14,8 +14,8 @@ Added VRC Clearner
 Code/Foldeer Clean Up.
 VRChat Ready!
 ```
-
-![Preview](https://i.gyazo.com/60ebdfca8f400d30d64a4dd754e0529a.gif)
+###  Preview
+![](https://i.gyazo.com/60ebdfca8f400d30d64a4dd754e0529a.gif)
 
 
 ## Neeed Help?                        
