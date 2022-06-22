@@ -19,7 +19,7 @@ VRChat Ready!
 
 
 ## Neeed Help?                        
-Discord: https://Discord.gg/SpacedOut
+Discord: https://discord.gg/SpacedOut
 
 Website: www.spacewarecheats.com
 
