@@ -19,10 +19,10 @@ VRChat Ready!
 
 
 ## Neeed Help?                        
-Discord: Discord.gg/SpacedOut
+Discord: https://Discord.gg/SpacedOut
 
 Website: www.spacewarecheats.com
 
-Our Github: https://github.com/Spaceware-Technologies/    
+Our Github:.checkuser @₣Ⱡ₳₵₭#0002 github.com/Spaceware-Technologies/    
 
 Orginal GitHub: https://github.com/sr2echa/Monotone-HWID-Spoofer   
