@@ -5,8 +5,6 @@
  	 Contact me on discord if you have questions.  
 
 
-
-
 ### What Changed?
 ```
 Removed All Useless Options
@@ -14,6 +12,26 @@ Added VRC Clearner
 Code/Folder Clean Up.
 VRChat Ready!
 ```
+
+
+### How to use?
+```
+open Spike.exe
+give admin privilages
+click 'Unban'
+Enjoy
+```
+
+
+### How to Stop VRC From Banning a new Account?
+```
+open Spike.exe
+give admin privilages
+click 'Clean Tracers'
+Enjoy
+```
+
+
 ###  Preview
 ![](https://i.gyazo.com/60ebdfca8f400d30d64a4dd754e0529a.gif)
 
