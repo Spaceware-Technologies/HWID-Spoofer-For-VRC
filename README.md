@@ -11,7 +11,7 @@
 ```
 Removed All Useless Options
 Added VRC Clearner
-Code/Foldeer Clean Up.
+Code/Folder Clean Up.
 VRChat Ready!
 ```
 ###  Preview
