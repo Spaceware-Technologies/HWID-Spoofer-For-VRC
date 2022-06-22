@@ -27,7 +27,7 @@ Enjoy
 ```
 open Spike.exe
 give admin privilages
-click 'Clean Tracers'
+click 'Remove Tracers'
 Enjoy
 ```
 
